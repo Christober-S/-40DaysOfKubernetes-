@@ -1,1 +1,8 @@
-
+![Screenshot 2024-06-18 184212](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/295360c6-6773-491d-9df0-43f7debd052e)
+![Screenshot 2024-06-18 183242](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/6e03bc12-69bb-494c-97bc-edf22f78140c)
+![Screenshot 2024-06-18 183057](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/0f546ae2-90e8-466a-ac8d-505675233df1)
+![Screenshot 2024-06-18 182933](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/82ce8c6b-af35-445d-b2a1-e96d4f62e1bc)
+![Screenshot 2024-06-18 182642](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/0bee9b51-8928-4026-a30f-97f153979fba)
+![Screenshot 2024-06-18 180904](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/a76c9146-7e78-42ce-9924-b5d6fe0fc2dd)
+![Screenshot 2024-06-18 180311](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/48e5a483-4d85-42ca-8fb3-e007ef9b3b99)
+![Screenshot 2024-06-18 180255](https://github.com/Christober-S/-40DaysOfKubernetes-/assets/104681432/4e3e1701-b61e-4e4d-9742-aa0801949ea1)
